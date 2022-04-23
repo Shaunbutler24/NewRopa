@@ -1,0 +1,7 @@
+echo"#NewRopa">>README.md
+gitinit
+gitaddREADME.md
+gitcommit-m"firstcommit"
+gitbranch-Mmain
+gitremoteaddorigingit@github.com:Shaunbutler24/NewRopa.git
+gitpush-uoriginmain
